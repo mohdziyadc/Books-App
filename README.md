@@ -16,9 +16,7 @@ books.
 
 
 ## Screenshots
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| ![screenshot_1](https://user-images.githubusercontent.com/75408941/141987009-943e770f-3d60-49a4-8f47-0127fe67011e.png)   | ![screenshot_2](https://user-images.githubusercontent.com/75408941/141987022-01e320f7-65c7-4d41-a560-7262c04ce08c.png)     | ![screenshot_3](https://user-images.githubusercontent.com/75408941/141987040-dd989bc6-7a87-4df7-89a0-c2c626213d23.png)    |
 
-![Screenshot_20211116-125524_Books](https://user-images.githubusercontent.com/75408941/141941519-b5cee323-1c7a-4377-8333-f742bc2426d9.jpg)
-
-![Screenshot_20211116-125537_Books](https://user-images.githubusercontent.com/75408941/141952961-cfb97b4f-b22f-4093-a2e8-870fbfeb6e28.jpg)
-
-![Screenshot_20211116-125602_Books](https://user-images.githubusercontent.com/75408941/141953037-4cf5873c-26e5-413e-9415-4b23eb8315ab.jpg)
