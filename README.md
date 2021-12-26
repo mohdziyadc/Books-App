@@ -10,9 +10,9 @@ books.
 
 ## Key Features
 
- -
- - 
- - 
+ - UI - Jetpack Compose
+ - Google Books API is used as the REST API
+ - Searching feature
 
 
 ## Screenshots
